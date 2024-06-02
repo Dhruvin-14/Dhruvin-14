@@ -9,7 +9,7 @@ machine learning techniques, programming languages, and data analysis tools.</p>
 
 - 📫 How to reach me **dhruvinpatel1409@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1VXTThtbgK0wexEQRDxw5g6tWBSuPN2NT/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DkprnALUfO69Cu48NLZKrSnNs5C2iWuH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
