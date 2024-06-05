@@ -13,8 +13,8 @@ machine learning techniques, programming languages, and data analysis tools.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruvin-patel-66265a262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruvin-patel-66265a262/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/dhruvin14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhruvin14/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruvin-patel-66265a262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruvin-patel-66265a262/" height="30" width="40" /></a>
+<a href="https://leetcode.com/dhruvin14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhruvin14/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
